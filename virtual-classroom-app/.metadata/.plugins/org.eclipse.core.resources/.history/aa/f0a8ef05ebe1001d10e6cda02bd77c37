@@ -1,0 +1,5 @@
+package com.msmcd.VirtualClassroomController.model;
+
+public class Message {
+
+}

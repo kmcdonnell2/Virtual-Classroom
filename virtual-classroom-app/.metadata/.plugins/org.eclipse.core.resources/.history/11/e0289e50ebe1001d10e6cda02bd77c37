@@ -1,0 +1,5 @@
+package com.msmcd.VirtualClassroomController.config;
+
+public class WebsocketConfig {
+
+}
